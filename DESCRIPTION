@@ -21,3 +21,7 @@ Imports:
     testthat,
     validate,
     renv,
+    here,
+    palmerpenguins,
+    rcmdcheck,
+    rmarkdown
