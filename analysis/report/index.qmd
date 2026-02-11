@@ -1,6 +1,6 @@
 ---
 title: 'RCT validation language'
-draft: true
+draft: false
 image: "img/lua.png"
 # geometry: margin=1in
 geometry:
