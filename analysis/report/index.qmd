@@ -108,9 +108,7 @@ spot errors or have better approaches, please let me
 know.
 
 
-![Data validation in clinical trials requires
-layered checks across multiple tools and
-languages.](media/images/ambiance1.png){.img-fluid}
+![](media/images/lua-logo.png){.img-fluid width=30% fig-align="center"}
 
 
 # Prerequisites and Setup
