@@ -5,7 +5,7 @@ subtitle: "From EDC Edit Checks to a
   Spreadsheet-Driven Lua Pipeline"
 author: "Ronald G. Thomas"
 date: "2025-01-15"
-categories:
+categories: [clinical-trials, data-cleaning, lua, javascript, zzedc]
   [Clinical Trials, Data Validation, R Programming]
 description: >
   I did not really understand how many layers of
