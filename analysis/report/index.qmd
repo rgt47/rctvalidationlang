@@ -5,8 +5,7 @@ subtitle: "From EDC Edit Checks to a
   Spreadsheet-Driven Lua Pipeline"
 author: "Ronald G. Thomas"
 date: "2025-01-15"
-categories: [clinical-trials, data-cleaning, lua, javascript, zzedc]
-  [Clinical Trials, Data Validation, R Programming]
+categories: [clinical-trials, data-cleaning, lua, javascript, zzedc, data-validation, r-programming]
 description: >
   I did not really understand how many layers of
   validation sit between a clinical trial data entry
