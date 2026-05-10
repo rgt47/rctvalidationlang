@@ -107,7 +107,7 @@ spot errors or have better approaches, please let me
 know.
 
 
-![Clinical precision begins with validated data.](media/images/placeholder-coffee-05.jpg){.img-fluid}
+![Clinical precision begins with validated data.](media/images/ambiance1.png){.img-fluid}
 
 
 # Prerequisites and Setup
