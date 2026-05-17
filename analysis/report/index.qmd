@@ -1,8 +1,6 @@
 ---
 title: "Clinical Trial Data Validation Across
   Languages and Tools"
-subtitle: "From EDC Edit Checks to a
-  Spreadsheet-Driven Lua Pipeline"
 author: "Ronald 'Ryy' G. Thomas"
 date: "2025-01-15"
 categories: [clinical-trials, data-cleaning, r, lua, javascript]
@@ -29,7 +27,7 @@ format:
 ![Clinical trial data validation spans multiple
 languages and tools, from spreadsheet rule definitions
 to real-time browser checks.
-](media/images/hero.png){.img-fluid width=80%}
+](media/images/hero.png){.img-fluid width=80% fig-align="center"}
 
 
 # Introduction
